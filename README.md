@@ -3,7 +3,7 @@
 Generates a password based on user-entered password requirements
 
 ## Using the Password Generator
-
+https://jlchen6.github.io/PasswordGenerator/
 1. Push the big red "Generate Password" button
 2. Enter a number between 8 and 128 to designate the password length
 3. Answer the yes or no questions regarding which character types to use
